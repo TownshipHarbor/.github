@@ -10,6 +10,8 @@ The ports are by Shadow, made with each original author's permission. The origin
 | [Skill Tree Pages](https://github.com/TownshipHarbor/SkillTreePages) | [caleb's original](https://github.com/calebv2/Skill-Tree-Pages) | Skill Tree Pages 0.3.1 |
 | [Repair Shop](https://github.com/TownshipHarbor/RepairShop) | [caleb's original](https://github.com/calebv2/ATT-Repair-Shop-Standalone) | Repair Shop 0.2.30 and SyncLib 1.0.4 |
 | [StingerReadded](https://github.com/TownshipHarbor/StingerReadded) | [CGNik's original](https://github.com/CG-Nik/StingerReadded) | StingerReadded v10 and CustomSkillsAPI v5 |
+| [CustomSkillsAPI](https://github.com/TownshipHarbor/CustomSkillsAPI) | [CGNik's original](https://github.com/CG-Nik/CustomSkillsAPI) | CustomSkillsAPI v5 |
+| [HandOnSideStructurePatch](https://github.com/TownshipHarbor/HandOnSideStructurePatch) | [CGNik's original](https://github.com/CG-Nik/HandOnSideStructurePatch) | nothing (player side only) |
 | [SyncLib](https://github.com/TownshipHarbor/SyncLib) | [MrDuckTheFifth's original](https://github.com/MrDuckTheFifth/SyncLib) | SyncLib 1.0.4 or 1.1.x |
 | [CustomRecipesAPI](https://github.com/TownshipHarbor/CustomRecipesAPI) | [CGNik's original](https://github.com/CG-Nik/CustomRecipesAPI) | CustomRecipesAPI v10 |
 | [MetalHandleMoulds](https://github.com/TownshipHarbor/MetalHandleMoulds) | [CGNik's original](https://github.com/CG-Nik/MetalHandleMoulds) | MetalHandleMoulds v6 and CustomRecipesAPI v10 |
