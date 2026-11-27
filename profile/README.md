@@ -16,7 +16,6 @@ The ports are by Shadow, made with each original author's permission. The origin
 | [CustomRecipesAPI](https://github.com/TownshipHarbor/CustomRecipesAPI) | [CGNik's original](https://github.com/CG-Nik/CustomRecipesAPI) | CustomRecipesAPI v10 |
 | [MetalHandleMoulds](https://github.com/TownshipHarbor/MetalHandleMoulds) | [CGNik's original](https://github.com/CG-Nik/MetalHandleMoulds) | MetalHandleMoulds v6 and CustomRecipesAPI v10 |
 | [DyeingAPI](https://github.com/TownshipHarbor/DyeingAPI) | [CGNik's original](https://github.com/CG-Nik/DyeingAPI) | DyeingAPI v8 and MateriaLib |
-| [MaterialDistributionAPI](https://github.com/TownshipHarbor/MaterialDistributionAPI) | [CGNik's original](https://github.com/CG-Nik/MaterialDistributionAPI) | MaterialDistributionAPI v2 and CustomDistributionAPI v3 |
 | [CGNiksCustomMaterialVariants](https://github.com/TownshipHarbor/CGNiksCustomMaterialVariants) | [CGNik's original](https://github.com/CG-Nik/CGNiksCustomMaterialVariants) | CGNiksCustomMaterialVariants v7 with DyeingAPI v8, MaterialDistributionAPI v2, CustomDistributionAPI v3 and MateriaLib |
 
 ## Install
